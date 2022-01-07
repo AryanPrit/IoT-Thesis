@@ -1,3 +1,3 @@
-# IoT-Thesis
+# MTech-Thesis
 Project Work
 
